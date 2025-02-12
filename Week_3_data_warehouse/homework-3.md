@@ -139,5 +139,6 @@ FROM kestra-sandbox-450507.nytaxihw.yellow_tripdata_hw_non_partitioned;
 
 ```
 ```
+It is estimated to read 0 bytes,
 Bigquery uses COUNT_STAR(), an internal operator, to simplify and speeden up the query by counting the number of rows of the table.
 ```
