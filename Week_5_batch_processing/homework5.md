@@ -11,10 +11,10 @@ wget https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-10.par
 
 ## Question 1: Install Spark and PySpark
 
-- [ ] Install Spark
-- [ ] Run PySpark
-- [ ] Create a local spark session
-- [ ] Execute spark.version.
+- Install Spark
+- Run PySpark
+- Create a local spark session
+- Execute spark.version.
 
 What's the output?
 
